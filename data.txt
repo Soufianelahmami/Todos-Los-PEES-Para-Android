@@ -43,13 +43,13 @@
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
-    "onesignal_id": "xxx",
+    "onesignal_id": "9f43c681-6942-415c-bd35-9e6b7e81aedc",
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdXKnKQ.webp",
+	 "title": "Todos Los PEES Para Android",
+	 "text": "Create an app that allows users to organize their tasks based on priority levels.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -57,9 +57,9 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdXKBix.webp",
+	 "title": "Todos Los PEES Para Android",
+	 "text": "Users can set different levels such as high, medium, and low to categorize and prioritize their tasks.",
 	 "text_two": "xxxx",
 
 	 "isLocked": true,
@@ -67,9 +67,9 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdXKfob.webp",
+	 "title": "Todos Los PEES Para Android",
+	 "text": "Develop an app that enables users to create shared to-do lists with friends, family, or colleagues.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -77,9 +77,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdXK3Ne.webp",
+	 "title": "Todos Los PEES Para Android",
+	 "text": "Collaborators can add, edit, and mark tasks as completed in real-time.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -87,9 +87,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdXKFDu.webp",
+	 "title": "Todos Los PEES Para Android",
+	 "text": "Users can earn points or rewards for completing tasks, and they can compete with friends or join challenges to stay motivated.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -97,9 +97,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdXKqVj.webp",
+	 "title": "Todos Los PEES Para Android",
+	 "text": "Develop an app that analyzes a user's schedule and suggests optimal times for task completion",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
